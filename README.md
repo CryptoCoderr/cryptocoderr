@@ -15,12 +15,12 @@
 
 Technical Skills
 
-Blockchain Technologies: web3.js, ethers.js
-Frontend Development: React, Next.js, React Native
-Backend Development: Node.js, Express.js
-Full Stack Development: MERN Stack (MongoDB, Express.js, React, Node.js)
-Cloud Services: AWS (Amazon Web Services)
-Other Tools and Technologies: Git, Docker, Kubernetes, CI/CD
+Blockchain Technologies: web3.js, ethers.js<br/>
+Frontend Development: React, Next.js, React Native<br/>
+Backend Development: Node.js, Express.js<br/>
+Full Stack Development: MERN Stack (MongoDB, Express.js, React, Node.js)<br/>
+Cloud Services: AWS (Amazon Web Services)<br/>
+Other Tools and Technologies: Git CI/CD
 
 - 💬 Ask me about **Reactjs, Nextjs, Nodejs, MongoDB, React-Native, web3.js, ethers.js, Solana, Aws**
 
