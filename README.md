@@ -13,6 +13,15 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/CryptoCoderr](https://github.com/CryptoCoderr)
 
+Technical Skills
+
+Blockchain Technologies: web3.js, ethers.js
+Frontend Development: React, Next.js, React Native
+Backend Development: Node.js, Express.js
+Full Stack Development: MERN Stack (MongoDB, Express.js, React, Node.js)
+Cloud Services: AWS (Amazon Web Services)
+Other Tools and Technologies: Git, Docker, Kubernetes, CI/CD
+
 - 💬 Ask me about **Reactjs, Nextjs, Nodejs, MongoDB, React-Native, web3.js, ethers.js, Solana, Aws**
 
 - 📫 How to reach me **cryptocodrr@gmail.com**
