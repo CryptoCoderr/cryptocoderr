@@ -99,12 +99,12 @@ Technical Skills
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" style="margin: 10px;"/>
     </a>
     <a href="https://web3js.readthedocs.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/web3js/web3js-original.svg" alt="web3js" width="50" height="50" style="margin: 10px;"/>
+       EtherJs
     </a>
     <a href="https://docs.ethers.io/v5/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethersjs/ethersjs-original.svg" alt="ethersjs" width="50" height="50" style="margin: 10px;"/>
+    Web3Js   
     </a>
     <a href="https://solana.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solana/solana-original.svg" alt="solana" width="50" height="50" style="margin: 10px;"/>
+    Solana 
     </a>
 </p>
