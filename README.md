@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Rust**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/CryptoCoderr](https://github.com/CryptoCoderr)
 
-- 💬 Ask me about **React, Next, Node, Mongo, React-Native, web3.js, ethers.js, Solana**
+- 💬 Ask me about **Reactjs, Nextjs, Nodejs, MongoDB, React-Native, web3.js, ethers.js, Solana, Aws**
 
-- 📫 How to reach me **rsyadav.abss1@gmail.com**
+- 📫 How to reach me **cryptocodrr@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
