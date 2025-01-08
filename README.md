@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm CryptoCoderr</h1>
 <h3 align="center">Experienced MERN stack web developer and React Native enthusiast.</h3>
 <h3 align="center">If you would be interested in reviewing my contributions, I kindly invite you to examine the data showcasing my overall contribution.</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cryptocoderr&theme=light&hide_border=true" alt="cryptocoderr" style="width: 100%;" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=cryptocoderr&theme=dark&hide_border=true" alt="CryptoCoderr"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cryptocoderr&label=Profile%20views&color=0e75b6&style=flat" alt="cryptocoderr" /> </p>
 
