@@ -1,14 +1,14 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Saurabh Yadav</h1>
 
 <div align="center">
-  <img src="https://your-image-url.com/banner.png" />
+  <img src="/banner.png" />
 </div>
 
 <br/>
 
 ## 👨🏻‍💻 About Me:
 
-<img src="https://your-image-url.com/thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img src="/thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://cryptocoderr.vercel.app)**
 - 🔭 I’m currently working on `Building innovative solutions using Web3, React, Node.js, and Blockchain technologies`
