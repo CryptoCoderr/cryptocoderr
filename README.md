@@ -1,110 +1,62 @@
-<h1 align="center">Hi 👋, I'm CryptoCoderr</h1>
-<h3 align="center">Experienced MERN stack web developer and React Native enthusiast.</h3>
-<h3 align="center">If you would be interested in reviewing my contributions, I kindly invite you to examine the data showcasing my overall contribution.</h3>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=cryptocoderr&theme=light&hide_border=true" alt="CryptoCoderr"/></p>
+<img src="https://i.imgur.com/yourimageid.jpg" alt="Banner Image" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cryptocoderr&label=Profile%20views&color=0e75b6&style=flat" alt="cryptocoderr" /> </p>
+# Hey there, I'm [Your Name] 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cryptocoderr" alt="cryptocoderr" /></a> </p>
+Welcome to my GitHub profile! I'm an experienced **Full Stack Engineer** 🖥️ with 4+ years of expertise in developing **web** and **mobile applications** 📱. I specialize in **React.js**, **Next.js**, **Node.js**, **MongoDB**, **AWS**, and **Blockchain** technologies like **Web3.js** and **Solana.js**. I'm passionate about building scalable **websites**, **cross-platform mobile apps**, and **smart contracts** 🔐.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+Explore my work at: [cryptocoderr.vercel.app](https://www.cryptocoderr.vercel.app) 🌐
 
+## 📞 Let's Connect!
 
+- ✉️ **Email**: [cryptocodrr@gmail.com](mailto:cryptocodrr@gmail.com) 📧
+- 📱 **Phone**: +919315751394 📞
+- 🌍 **Location**: Kuala Lumpur, Malaysia 🇲🇾
 
-- 👨‍💻 All of my projects are available at [https://github.com/CryptoCoderr](https://github.com/CryptoCoderr)
+## 🎓 Education
 
+- **BVOC, GGSIP University** (2016 - 2019) 🎓
+- **Intermediate, ST BML School** (2014 - 2016) 📚
 
+## 🛠️ My Tech Stack & Skills 💻
 
-- 💬 Ask me about **Reactjs, Nextjs, Nodejs, MongoDB, React-Native, web3.js, ethers.js, Solana, Aws**
+- **Languages**: JavaScript ⚡, TypeScript 📜, Solidity ⛓️
+- **Frontend**: React.js ⚛️, Next.js 🌐, React Native 📱
+- **Backend**: Node.js 🌳, Express.js 🖥️
+- **Databases**: MongoDB 🍃
+- **Blockchain**: Web3.js 🪙, Solana.js 🔑
+- **Cloud & DevOps**: AWS ☁️, Docker 🐳
+- **Other**: REST APIs 📡, Git 🐙, Agile Scrum 🏃‍♂️
 
-- 📫 How to reach me **cryptocodrr@gmail.com**
+## 📊 GitHub Stats
 
+![cryptocoderr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cryptocoderr&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-Technical Skills
+## 📈 GitHub Contributions
 
--> Blockchain Technologies: web3.js, ethers.js<br/>
--> Frontend Development: React, Next.js, React Native<br/>
--> Backend Development: Node.js, Express.js<br/>
--> Full Stack Development: MERN Stack (MongoDB, Express.js, React, Node.js)<br/>
--> Cloud Services: AWS (Amazon Web Services)<br/>
--> Other Tools and Technologies: Git CI/CD
+![cryptocoderr's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=cryptocoderr&theme=radical)
 
+## 🌱 Currently Working On 🔨
 
-<p align="left">
-</p>
+- Developing and enhancing **T3 Wallet** 🔐
+- Contributing to **Sovereign-T Protocol** 🧩
+- Learning more about **Solana Blockchain** and **Web3** technologies 🔍
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-        <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" style="margin: 10px;"/>
-    </a>
-    <a href="https://web3js.readthedocs.io/" target="_blank" rel="noreferrer">
-       EtherJs
-    </a>
-    <a href="https://docs.ethers.io/v5/" target="_blank" rel="noreferrer">
-    Web3Js   
-    </a>
-    <a href="https://solana.com/" target="_blank" rel="noreferrer">
-    Solana 
-    </a>
-</p>
+## 🔝 My Top Repositories 🚀
+
+- [💻 T3 Wallet](https://github.com/cryptocoderr/t3-wallet) - Cutting-edge React Native app for seamless blockchain interactions! 🚀
+- [📦 Project Name](https://github.com/cryptocoderr/projectname) - A cool project with innovative tech! 💡
+- [🔥 Smart Contract Demo](https://github.com/cryptocoderr/smart-contract-demo) - A powerful smart contract built with **Solidity** 📝
+
+## 🌐 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/cryptocoderr/) 💼
+- [Resume](https://www.canva.com/design/DAGctUKcpVU/rkbXyKOrRAU4yItjvX6L9w/view?utlId=hb3349fbdb3) 📄
+- [Website](https://cryptocoderr.vercel.app) 🌍
+
+---
+
+> "Blockchain technology is a game-changer that will revolutionize how we interact with digital systems." – Anonymous 🧠
+
+---
+
+✨ **Fun Fact**: When I'm not coding, I'm exploring new blockchain technologies or creating quirky decentralized apps! 😎
