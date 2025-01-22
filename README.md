@@ -1,62 +1,57 @@
-<img src="https://www.canva.com/design/DAGc6yx-hIQ/H-cULFai1Aasy8ckL32R4g/view?utm_content=DAGc6yx-hIQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h377789d571" alt="Banner Image" width="100%" />
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Saurabh Yadav</h1>
 
-# Hey there, I'm SAURABH YADAV 👋
+<div align="center">
+  <img src="https://your-image-url.com/banner.png" />
+</div>
 
-Welcome to my GitHub profile! I'm an experienced **Full Stack Engineer** 🖥️ with 4+ years of expertise in developing **web** and **mobile applications** 📱. I specialize in **React.js**, **Next.js**, **Node.js**, **MongoDB**, **AWS**, and **Blockchain** technologies like **Web3.js** and **Solana.js**. I'm passionate about building scalable **websites**, **cross-platform mobile apps**, and **smart contracts** 🔐.
+<br/>
 
-Explore my work at: [cryptocoderr.vercel.app](https://www.cryptocoderr.vercel.app) 🌐
+## 👨🏻‍💻 About Me:
 
-## 📞 Let's Connect!
+<img src="https://your-image-url.com/thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- ✉️ **Email**: [cryptocodrr@gmail.com](mailto:cryptocodrr@gmail.com) 📧
-- 📱 **Phone**: +919315751394 📞
-- 🌍 **Location**: Kuala Lumpur, Malaysia 🇲🇾
+- 🙋‍♂️ All about me is at **[My Website](https://cryptocoderr.vercel.app)**
+- 🔭 I’m currently working on `Building innovative solutions using Web3, React, Node.js, and Blockchain technologies`
+- 🌱 I’m currently learning `Solana Blockchain and Web3.js`
+- 👯 I’m looking to collaborate on `Blockchain-based Projects and Full-Stack Development`
+- 🤔 I’m looking for help with `Solana Blockchain development`
+- 💬 Ask me about anything, except Maths 😅
+- 👨‍💻 Life Hack: Focus on learning and creating cool stuff! 🚀
+- ⚡ Fun fact: I love exploring the world of Blockchain and Web3 technologies
 
-## 🎓 Education
+## 🛠️ Technologies and Tools I use:
 
-- **BVOC, GGSIP University** (2016 - 2019) 🎓
-- **Intermediate, ST BML School** (2014 - 2016) 📚
+<p>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25px"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25px"/>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
+<img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" height="25px"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" height="25px"/>
+<img alt="Solana" src="https://img.shields.io/badge/-Solana-55A0FF?style=flat-square&logo=solana&logoColor=white" height="25px"/>
+<img alt="Web3" src="https://img.shields.io/badge/Web3.js-000000?style=flat-square&logo=web3.js&logoColor=white" height="25px"/>
+<img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-00B5FF?style=for-the-badge&logo=blockchain&logoColor=white" height="25px"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white" height="25px"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25px"/>
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
+</p>
 
-## 🛠️ My Tech Stack & Skills 💻
+## ❤️ Let's get connected:
 
-- **Languages**: JavaScript ⚡, TypeScript 📜, Solidity ⛓️
-- **Frontend**: React.js ⚛️, Next.js 🌐, React Native 📱
-- **Backend**: Node.js 🌳, Express.js 🖥️
-- **Databases**: MongoDB 🍃
-- **Blockchain**: Web3.js 🪙, Solana.js 🔑
-- **Cloud & DevOps**: AWS ☁️, Docker 🐳
-- **Other**: REST APIs 📡, Git 🐙, Agile Scrum 🏃‍♂️
+<p>
+  <a href="https://cryptocoderr.vercel.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a>
+  <a href="https://twitter.com/cryptocoderr" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30px"/></a>
+  <a href="https://www.linkedin.com/in/cryptocoderr/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/></a>
+  <a href="https://www.instagram.com/cryptocoderr" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30px"/></a>
+</p>
 
-## 📊 GitHub Stats
+## 🤝 Support Me:
 
-![cryptocoderr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cryptocoderr&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+<a href="https://www.buymeacoffee.com/cryptocoderr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
-## 📈 GitHub Contributions
+## 📊 My GitHub Data:
 
-![cryptocoderr's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=cryptocoderr&theme=radical)
-
-## 🌱 Currently Working On 🔨
-
-- Developing and enhancing **T3 Wallet** 🔐
-- Contributing to **Sovereign-T Protocol** 🧩
-- Learning more about **Solana Blockchain** and **Web3** technologies 🔍
-
-## 🔝 My Top Repositories 🚀
-
-- [💻 T3 Wallet](https://github.com/cryptocoderr/t3-wallet) - Cutting-edge React Native app for seamless blockchain interactions! 🚀
-- [📦 Project Name](https://github.com/cryptocoderr/projectname) - A cool project with innovative tech! 💡
-- [🔥 Smart Contract Demo](https://github.com/cryptocoderr/smart-contract-demo) - A powerful smart contract built with **Solidity** 📝
-
-## 🌐 Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/cryptocoderr/) 💼
-- [Resume](https://www.canva.com/design/DAGctUKcpVU/rkbXyKOrRAU4yItjvX6L9w/view?utlId=hb3349fbdb3) 📄
-- [Website](https://cryptocoderr.vercel.app) 🌍
-
----
-
-> "Blockchain technology is a game-changer that will revolutionize how we interact with digital systems." – Anonymous 🧠
-
----
-
-✨ **Fun Fact**: When I'm not coding, I'm exploring new blockchain technologies or creating quirky decentralized apps! 😎
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cryptocoderr&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cryptocoderr&" alt="saurabh" />
+</div>
