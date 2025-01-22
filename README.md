@@ -10,14 +10,11 @@
 
 <img src="/thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://cryptocoderr.vercel.app)**
-- 🔭 I’m currently working on `Building innovative solutions using Web3, React, Node.js, and Blockchain technologies`
-- 🌱 I’m currently learning `Solana Blockchain and Web3.js`
-- 👯 I’m looking to collaborate on `Blockchain-based Projects and Full-Stack Development`
-- 🤔 I’m looking for help with `Solana Blockchain development`
-- 💬 Ask me about anything, except Maths 😅
-- 👨‍💻 Life Hack: Focus on learning and creating cool stuff! 🚀
-- ⚡ Fun fact: I love exploring the world of Blockchain and Web3 technologies
+- 🧑‍💻 **Experienced Full Stack Engineer** with 4+ years of expertise in developing **web** and **mobile applications** 📱.
+- 💻 Skilled in **React.js**, **Next.js**, **Node.js**, **MongoDB**, **AWS**, and **Blockchain technologies** like **Web3.js** and **Solana.js** 🔐.
+- 🌐 Proficient in building scalable **websites**, **cross-platform mobile apps**, and **smart contracts**.
+- 📊 Delivered **200+ projects** across diverse domains 🌍.
+- 💼 Explore my work at: **[cryptocoderr.vercel.app](https://cryptocoderr.vercel.app)**
 
 ## 🛠️ Technologies and Tools I use:
 
