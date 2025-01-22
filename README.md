@@ -15,6 +15,10 @@
 - 🌐 Proficient in building scalable **websites**, **cross-platform mobile apps**, and **smart contracts**.
 - 📊 Delivered **200+ projects** across diverse domains 🌍.
 - 💼 Explore my work at: **[cryptocoderr.vercel.app](https://cryptocoderr.vercel.app)**
+- 📱 Passionate about building **cross-platform mobile applications** using **React Native** 📲.
+- 🧩 Actively contributing to **Blockchain** ecosystems, focusing on **Solana.js** and **Web3.js**.
+- 🔭 Currently working on **building decentralized apps (dApps)** and **Web3 solutions**.
+- 🚀 Aiming to revolutionize digital experiences through **smart contracts** and **decentralized applications**.
 
 ## 🛠️ Technologies and Tools I use:
 
@@ -28,6 +32,7 @@
 <img alt="Solana" src="https://img.shields.io/badge/-Solana-55A0FF?style=flat-square&logo=solana&logoColor=white" height="25px"/>
 <img alt="Web3" src="https://img.shields.io/badge/Web3.js-000000?style=flat-square&logo=web3.js&logoColor=white" height="25px"/>
 <img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-00B5FF?style=for-the-badge&logo=blockchain&logoColor=white" height="25px"/>
+<img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white" height="25px"/>
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25px"/>
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
