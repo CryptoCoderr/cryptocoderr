@@ -1,6 +1,6 @@
-<img src="https://i.imgur.com/yourimageid.jpg" alt="Banner Image" width="100%" />
+<img src="https://www.canva.com/design/DAGc6yx-hIQ/H-cULFai1Aasy8ckL32R4g/view?utm_content=DAGc6yx-hIQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h377789d571" alt="Banner Image" width="100%" />
 
-# Hey there, I'm [Your Name] 👋
+# Hey there, I'm SAURABH YADAV 👋
 
 Welcome to my GitHub profile! I'm an experienced **Full Stack Engineer** 🖥️ with 4+ years of expertise in developing **web** and **mobile applications** 📱. I specialize in **React.js**, **Next.js**, **Node.js**, **MongoDB**, **AWS**, and **Blockchain** technologies like **Web3.js** and **Solana.js**. I'm passionate about building scalable **websites**, **cross-platform mobile apps**, and **smart contracts** 🔐.
 
