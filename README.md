@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Saurabh Yadav</h1>
+# Hello ![Hi](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif) I'm Saurabh Yadav
 
 <div align="center">
   <img src="/banner.png" />
@@ -20,23 +20,27 @@
 - 🔭 Currently working on **building decentralized apps (dApps)** and **Web3 solutions**.
 - 🚀 Aiming to revolutionize digital experiences through **smart contracts** and **decentralized applications**.
 
+<br/>
+
 ## 🛠️ Technologies and Tools I use:
 
 <p>
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25px"/>
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25px"/>
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
-<img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" height="25px"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" height="25px"/>
-<img alt="Solana" src="https://img.shields.io/badge/-Solana-55A0FF?style=flat-square&logo=solana&logoColor=white" height="25px"/>
-<img alt="Web3" src="https://img.shields.io/badge/Web3.js-000000?style=flat-square&logo=web3.js&logoColor=white" height="25px"/>
-<img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-00B5FF?style=for-the-badge&logo=blockchain&logoColor=white" height="25px"/>
-<img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white" height="25px"/>
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25px"/>
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25px"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25px"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
+  <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" height="25px"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" height="25px"/>
+  <img alt="Solana" src="https://img.shields.io/badge/-Solana-55A0FF?style=flat-square&logo=solana&logoColor=white" height="25px"/>
+  <img alt="Web3" src="https://img.shields.io/badge/Web3.js-000000?style=flat-square&logo=web3.js&logoColor=white" height="25px"/>
+  <img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-00B5FF?style=for-the-badge&logo=blockchain&logoColor=white" height="25px"/>
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white" height="25px"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25px"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
 </p>
+
+<br/>
 
 ## ❤️ Let's get connected:
 
@@ -47,13 +51,9 @@
   <a href="https://www.instagram.com/cryptocoderr" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30px"/></a>
 </p>
 
+<br/>
+
 ## 🤝 Support Me:
 
 <a href="https://www.buymeacoffee.com/cryptocoderr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
-## 📊 My GitHub Data:
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cryptocoderr&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cryptocoderr&" alt="saurabh" />
-</div>
