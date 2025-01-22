@@ -25,19 +25,19 @@
 ## 🛠️ Technologies and Tools I use:
 
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="50px"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="50px"/>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="50px"/>
-  <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="50px"/>
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" height="50px"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" height="50px"/>
-  <img alt="Solana" src="https://img.shields.io/badge/-Solana-55A0FF?style=flat-square&logo=solana&logoColor=white" height="50px"/>
-  <img alt="Web3" src="https://img.shields.io/badge/Web3.js-000000?style=flat-square&logo=web3.js&logoColor=white" height="50px"/>
-  <img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-00B5FF?style=for-the-badge&logo=blockchain&logoColor=white" height="50px"/>
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="50px"/>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white" height="50px"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="50px"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="50px"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="40px"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="40px"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40px"/>
+  <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="40px"/>
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" height="40px"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" height="40px"/>
+  <img alt="Solana" src="https://img.shields.io/badge/-Solana-55A0FF?style=flat-square&logo=solana&logoColor=white" height="40px"/>
+  <img alt="Web3" src="https://img.shields.io/badge/Web3.js-000000?style=flat-square&logo=web3.js&logoColor=white" height="40px"/>
+  <img alt="Blockchain" src="https://img.shields.io/badge/Blockchain-00B5FF?style=for-the-badge&logo=blockchain&logoColor=white" height="40px"/>
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40px"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&logoColor=white" height="40px"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40px"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="40px"/>
 </p>
 
 <br/>
