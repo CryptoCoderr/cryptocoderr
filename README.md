@@ -10,7 +10,7 @@
 
 <img src="/thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🧑‍💻 **Experienced Full Stack Engineer** with 4+ years of expertise in developing **web** and **mobile applications** 📱.
+- 🧑‍💻 **Experienced Full Stack Engineer** with 5+ years of expertise in developing **web** and **mobile applications** 📱.
 - 💻 Skilled in **React.js**, **Next.js**, **Node.js**, **MongoDB**, **AWS**, and **Blockchain technologies** like **Web3.js** and **Solana.js** 🔐.
 - 🌐 Proficient in building scalable **websites**, **cross-platform mobile apps**, and **smart contracts**.
 - 📊 Delivered **200+ projects** across diverse domains 🌍.
